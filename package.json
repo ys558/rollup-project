@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rollup src/main.js -c"
+  },
+  "devDependencies": {
+    "rollup-plugin-json": "^4.0.0"
+  }
+}
